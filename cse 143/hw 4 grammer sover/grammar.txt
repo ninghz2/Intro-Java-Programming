@@ -1,9 +1,0 @@
-postal address::= name address US
-name::= firstName lastName
-firstName::= Nina |Jack |Tina |Sophie |Betty |Ben | Phoebe | Rose 
-lastName::= Zhang |Lin | Song|   Gao|Pinkman | Smith | Johnson | Miller | Martin | Isip
-address::= street apartment zipcode state 
-street::=3925 Adams Lane NE | 1101 CampusWay| 9100 Aurora Ave | 3rd Ave NE | UniversityWay NE
-apartment::= Mercer CourtA-701 | Stevens Court A-301 | Alder B-501 | Poplar C-601 | Elm E-801
-zipcode::= 98105 | 98103 | 98104 | 96130 | 99120 | 97165 | 87536 | 12434
-state::= WA | NY | AK | CA| HI | IN  | MI | OR | TX
